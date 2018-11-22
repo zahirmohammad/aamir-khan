@@ -1,0 +1,36 @@
+.post{
+	width:700px;
+	background-color:black;
+	margin:0px auto;
+	border:20px solid #7989C5;
+
+}
+.post h1{
+	color: white;
+	text-align: center;
+	font-family: candara;
+	word-spacing:10px;
+	letter-spacing: 5px;
+
+}
+.post img{
+	width:100%;
+}
+.post p{
+	color:gold;
+	text-align: justify;
+	padding: 40px;
+}
+.post p span{
+	text-decoration: underline;
+
+}
+.post p span:hover{
+	font-size:50px;
+	color:white;
+	text-transform: uppercase;
+	font-family: Tempus Sans ITC;
+	transition: 2s;
+	
+}
+
